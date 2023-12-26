@@ -1,0 +1,44 @@
+body{
+    background-size: cover ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#intro{
+    font-size: 15px;
+    background-color: #a91f84;
+    padding: 10px;
+    color: rgb(255, 185, 235);
+    border-radius: 10px;
+}
+
+
+.disk_speed{
+    float: left;
+}
+
+.disk_speed img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+button{
+    font-size: 23px;
+    margin: 15px;
+    background-color:rgb(166, 252, 252);
+    border-radius: 20px;
+    width: 100px;
+}
+
+.disk_volume{
+    float: right;
+}
+
+.disk_volume img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
